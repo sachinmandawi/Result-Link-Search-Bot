@@ -20,10 +20,10 @@ from pyrogram.types import (
 )
 
 # ----------------- CONFIG: Replace these with your values -----------------
-BOT_TOKEN = "BOT_TOKEN_HERE"
-API_ID = 123456            # int: your api_id from my.telegram.org
-API_HASH = "API_HASH_HERE"
-SOURCE_CHAT = "@YourSourceGroupOrChannel"  # username or chat_id of the source group
+BOT_TOKEN = "8392371637:AAFUaicG1CH4IofZmn4maist4dpkyNPhjiM"
+API_ID = 23292615            # int: your api_id from my.telegram.org
+API_HASH = "fc15ff59f3a1d77e4d86ff6f3ded9d44"
+SOURCE_CHAT = "2668553375"  # username or chat_id of the source group
 RESULTS_PER_PAGE = 5
 # ---------------------------------------------------------------------------
 
