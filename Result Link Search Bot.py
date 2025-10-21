@@ -34,7 +34,7 @@ from pyrogram.types import (
 )
 
 # ----------------- CONFIG: Replace these with your values -----------------
-BOT_TOKEN = "REPLACE_WITH_NEW_TOKEN"  # ⚠️ Regenerate: your old token is exposed.
+BOT_TOKEN = "8392371637:AAFUaicG1CH4IofZmn4maist4dpkyNPhjiM"  # ⚠️ Regenerate: your old token is exposed.
 API_ID = 23292615                     # int: your api_id from my.telegram.org
 API_HASH = "fc15ff59f3a1d77e4d86ff6f3ded9d44"
 SOURCE_CHAT = 2668553375              # prefer int chat_id if available (no quotes)
